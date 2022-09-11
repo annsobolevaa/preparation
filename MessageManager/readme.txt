@@ -10,3 +10,4 @@ what could be improved:
 2. Create a new algorithm of creating a random string: to use random.next for understanding string.lenght and for generation char (convert int to char) and concat chars with stringbuilder.
 I didn't do it, because the current logic is simplier and I didn't need more.
 3. Add another method of processing the messages.
+4. Add itegration tests.
